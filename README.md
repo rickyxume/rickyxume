@@ -38,11 +38,12 @@ Wish you a good-looking profile README!
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+...
 
 ### 🍻 Where to find me?
 
 + 📝 [Ricky's Blog](blog.rickyxu.cc)
-+ ✉️ rickyxu.me AT gmail.com
++ ✉️ rickyxu.me [AT] gmail.com
 
 <p><a href="https://github.com/rickyxume" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%E8%AE%B8%E6%B1%9D%E8%B6%85/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
