@@ -28,7 +28,7 @@ Wish you a good-looking profile README!
 -->
 ### 👋 Hi! Nice to see you!
 
-😄 I'm [Ricky](rickyxu.cc), a student from <img src="https://www.flaticon.com/svg/vstatic/svg/330/330651.svg?token=exp=1619968278~hmac=26c4d45c3c7b91ffee0c467e555d1fff" width="13"/> <b>Guangzhou, China</b>, studying in <b>Guangzhou University</b>.
+😄 I'm [Ricky](rickyxu.cc), a student from <b>China</b>, studying in <b>Guangzhou University</b>.
 
 - 🌱 I’m currently interesting in 💻 distributed database & AI application.
 - ❤️ 💻 📖 🏸 🏃 🎸 
