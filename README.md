@@ -28,7 +28,7 @@ Wish you a good-looking profile README!
 -->
 ### 👋 Hi! Nice to see you!
 
-😄 I'm [Ricky](rickyxu.cc), a student from <b>China</b>, studying in <b>Guangzhou University</b>.
+😄 I'm [Ricky](blog.rickyxu.cc/about/), a student from <b>China</b>, studying in <b>Guangzhou University</b>.
 
 - 🌱 I’m currently interesting in 💻 distributed database & AI application.
 - ❤️ 💻 📖 🏸 🏃 🎸 
