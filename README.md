@@ -48,7 +48,10 @@ Wish you a good-looking profile README!
 <p><a href="https://github.com/rickyxume" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%E8%AE%B8%E6%B1%9D%E8%B6%85/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-
-
+  
+  
+![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=rickyxume&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyxume&layout=compact&theme=buefy&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!-- 
 ![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=rickyxume&show_icons=true&theme=dracula)
-
+ -->
