@@ -45,7 +45,27 @@ Wish you a good-looking profile README!
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-
+<!--
+``` 
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Python", "C++"],
+    askMeAbout: ["web dev", "tech", "deep learning", "distributed system", "Micro service"],
+    technologies: {
+        mobileApp: ["Android App"],
+        backEnd: {
+            python: ["Flask", "Django"],
+            java: ["Spring Boot"]
+        },
+        DL: ["PyTorch", "TensorFlow", "Keras"],
+        databases: ["PostgreSQL", "MySQL", "Redis", "TiDB"]
+    },
+    architecture: ["Cloud Native", "Distributed system"],
+    currentFocus: "...",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+-->
 ### 🍻 Where to find me?
 
 + 📝 [Ricky's Blog](blog.rickyxu.cc)
