@@ -30,7 +30,7 @@ Wish you a good-looking profile README!
 
 😄 I'm [Ricky](https://blog.rickyxu.cc/about/), a student from <b>China</b>, studying in <b>Guangzhou University</b>.
 
-- 🌱 I’m currently interesting in 💻 distributed database & AI application.
+- 🌱 I’m currently interesting in 💻 Data analysis & AI application.
 - ❤️ 💻 📖 🏸 🏃 🎸 
 
 ### 🛠️ Coding Languages & Framworks & Tools
