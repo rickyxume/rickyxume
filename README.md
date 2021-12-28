@@ -71,7 +71,12 @@ const anmol = {
 + 📝 [Ricky's Blog](blog.rickyxu.cc)
 + ✉️ rickyxu.me [AT] gmail.com
 
-<p><a href="https://github.com/rickyxume" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%E8%AE%B8%E6%B1%9D%E8%B6%85/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://www.zhihu.com/people/rickyxume" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/-Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%E8%AE%B8%E6%B1%9D%E8%B6%85/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://medium.com/@rickyxu.cc" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  
+    
 </p>
 
   
