@@ -26,7 +26,7 @@ Wish you a good-looking profile README!
                                    —— Ricky (https://github.com/rickyxume)
 
 -->
-### 👋 Hi! I'm [Ricky](https://blog.rickyxu.cc/about/),
+### 👋 Hi! I'm [Ricky](https://blog.rickyxu.cc/about/)
 
 🔭 I’m currently working on 
 
@@ -45,7 +45,7 @@ Wish you a good-looking profile README!
 
 💼 Work Experience
 
-- 🐧 Webank: DA4Security / Anti-Fraud / Anti-Spam / Account Security / Graph&Sequence Mining
+- 🐧 Webank: DA4Security / Anti-Fraud / Anti-Spam / Graph&Sequence Mining
 
 
 ### 🍻 Where to find me?
