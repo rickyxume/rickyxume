@@ -32,7 +32,9 @@ Wish you a good-looking profile README!
 
 - 👿 Anomaly detection
 
-- 🌱 LLM & KG
+- 🌱 LLM/AIGC
+
+- 🍇Time Series/Graph Data Mining
 
 
 🏆 Award-Winning Experience
@@ -45,7 +47,7 @@ Wish you a good-looking profile README!
 
 💼 Work Experience
 
-- 🐧 Webank: DA4Security / Anti-Fraud / Anti-Spam / Graph&Sequence Mining
+- 🐧 Webank: Security / Anti-Fraud Strategy Analyst
 
 
 ### 🍻 Where to find me?
